@@ -1,0 +1,1 @@
+# automated-stock-control-system
